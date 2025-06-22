@@ -1,0 +1,17 @@
+body {
+    background-image: url(background.png); /* Path to your image */
+    background-size: cover; /* Covers the entire background */
+    background-repeat: no-repeat; /* Prevents repeating */
+    background-position: center; /* Centers the image */
+}
+.custom-divider {
+  margin: 50px auto;            /* space above and below */
+  width: 100%;                   /* controls left/right spacing */
+  border: none;                 /* remove default border */
+  border-top: 3px solid #444;   /* custom horizontal line */
+  border-radius: 2px;           /* smooth/rounded edges */
+}
+
+
+
+
